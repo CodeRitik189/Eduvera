@@ -1,1 +1,1 @@
-# Eduvera is an Digital Education website 
+# Eduvera is a Digital Education website 
